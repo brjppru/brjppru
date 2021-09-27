@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there 👋 
 
-<!--
-**brjppru/brjppru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Roman Y. Bogdanov, from: Innopolis, Tatarstan republic (From Russia with great affection!)
 
-Here are some ideas to get you started:
+- 🐍 I'm not a engineer, i'm a relationships counsellor for microservices who don't wanna talk to each other anymore
+- 🤖 Most of the time I'm devops'ing and SRE'ing.
+- 🔭 I’m currently working on [СбербанкИдея](https://sbidea.ru/promo/)
+- 🌱 I’m currently learning DJing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🐶 My pet-projects
+
+- my Linux mint workstation [https://github.com/brjppru/linux-mint-brjed]
+- Arctic Code Vault Contributor [https://github.com/brjppru/scriptbox]
+- Contributors to FreeBSD (https://docs.freebsd.org/en/articles/contributors/)
+
+## 🤝 Connect with me
+
+- 📫 You can shoot me an email at [r.bogdanov@outlook.com](mailto:r.bogdanov@outlook.com)
