@@ -7,9 +7,12 @@ I'm Roman Y. Bogdanov, from: [Innopolis](http://welcome.innopolis.ru/), Tatarsta
 - 🔭 I’m currently working on [СбербанкИдея](https://sbidea.ru/promo/)
 - 🌱 I’m currently learning DJing
 
-# 🐶 My pet-projects
+# 🐶 My current pet-projects
 
 - [Linuxmint](https://github.com/brjppru/linux-mint-brjed) workstation
+
+# 🔓 Achievement unlocked
+
 - [Arctic Code Vault](https://github.com/brjppru/scriptbox) Contributor
 - [FreeBSD Contributors](https://docs.freebsd.org/en/articles/contributors/)
 
