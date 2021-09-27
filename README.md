@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-I'm Roman Y. Bogdanov, from: Innopolis, Tatarstan republic (From Russia with great affection!)
+I'm Roman Y. Bogdanov, from: [Innopolis](http://welcome.innopolis.ru/), Tatarstan republic (From Russia with great affection!)
 
 - 🐍 I'm not a engineer, i'm a relationships counsellor for microservices who don't wanna talk to each other anymore
 - 🤖 Most of the time I'm devops'ing and SRE'ing.
