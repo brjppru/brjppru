@@ -9,9 +9,9 @@ I'm Roman Y. Bogdanov, from: [Innopolis](http://welcome.innopolis.ru/), Tatarsta
 
 # 🐶 My pet-projects
 
-- (Linuxmint)[https://github.com/brjppru/linux-mint-brjed] workstation
-- (Arctic Code Vault) [https://github.com/brjppru/scriptbox] Contributor
-- (FreeBSD Contributors)[https://docs.freebsd.org/en/articles/contributors/]
+- [Linuxmint](https://github.com/brjppru/linux-mint-brjed) workstation
+- [Arctic Code Vault](https://github.com/brjppru/scriptbox) Contributor
+- [FreeBSD Contributors](https://docs.freebsd.org/en/articles/contributors/)
 
 ## 🤝 Connect with me
 
