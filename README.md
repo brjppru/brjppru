@@ -20,7 +20,7 @@ I'm Roman Y. Bogdanov, from: [Innopolis](http://welcome.innopolis.ru/), Tatarsta
 - Work with server hardware Cisco, HP, Dell, Supermicro, IBM over 25 years;
 - Work with network hardware Cisco, HP, D-link, etc over 20 years;
 - RIPE, RIPEdb, AS, atlas, routing, switching, aggregation;
-- DNS;
+- DNS, DHCP, VRRP, GLBP, iBGP, eBGP, ip unnumbered, VPC, ACL, RSPAN, SPAN, QinQ, VRF, VLAN
 - DBA Experience (PostgeSQL, Oracle, MS SQL);
 - Experience in VMware, vCenter, Hyper-V, proxmox, ovirt;
 - Experience in MS Exchange, Lotus, postfix, exim, dovecot, smtp and anti-spam solutions;
