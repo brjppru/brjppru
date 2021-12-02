@@ -28,7 +28,7 @@ I'm Roman Y. Bogdanov, from: [Innopolis](http://welcome.innopolis.ru/), Tatarsta
 
 # Hire me
 
-- [linedin](www.linkedin.com/in/brjed)
+- [linkedin](https://www.linkedin.com/in/brjed)
 
 # 🐶 My current pet-projects
 
