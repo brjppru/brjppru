@@ -26,6 +26,10 @@ I'm Roman Y. Bogdanov, from: [Innopolis](http://welcome.innopolis.ru/), Tatarsta
 - Experience in MS Exchange, Lotus, postfix, exim, dovecot, smtp and anti-spam solutions;
 - Backup Solution (Veeam, Symantec, ArcServe, bacula, tape, LTO, etc);
 
+# Hire me
+
+- [linedin](www.linkedin.com/in/brjed)
+
 # 🐶 My current pet-projects
 
 - [Linuxmint](https://github.com/brjppru/linux-mint-brjed) workstation
