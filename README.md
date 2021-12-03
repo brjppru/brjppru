@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-I'm Roman Y. Bogdanov, from: [Innopolis](http://welcome.innopolis.ru/), Tatarstan republic (From Russia with great affection!)
+I'm Roman Y. Bogdanov, from: [Innopolis](http://innopolis.ru/), Tatarstan republic (From Russia with great affection!)
 
 # About
 
