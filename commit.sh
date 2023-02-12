@@ -1,18 +1,21 @@
-#!/bin/sh
+#!/bin/bash
 
-# git push brjppru to to brjppru.github.lo
+#
+# git push brjppru repo to githublo
+#
 
-dated=`date +%Y-%m-%d-%H%M%S`
+dated=$(date +%Y-%m-%d-%H%M%S)
+commt=$(curl -L --proxy http://192.168.0.11:3129 -s http://whatthecommit.com/index.txt)
 
 git add .
 
-echo run git push on ${dated}
+echo run git push on ${dated} ${commt}
 
 for i in `git status | grep deleted | awk '{print $2}'`; do git rm $i; done
 
-git commit -m "$dated $(curl -s http://whatthecommit.com/index.txt)"
+git commit -m "$dated $commt"
 
-git push -u origin main
+git push
 
 #
 # non master, just a main. fck2020 (c) scooter
