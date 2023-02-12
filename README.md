@@ -4,7 +4,7 @@ I'm Roman Y. Bogdanov, from Syberia.
 
 # About
 
-- 🔭 I’m currently working from [Kaspersky RnD](https://www.kaspersky.com/)
+- 🔭 I’m currently working for [Kaspersky RnD](https://www.kaspersky.com/)
 - 🌱 I’m currently learning ♫ DJing [♫♫♫](https://t.me/thebrj)
 
 - 🤖 Most of the time I'm DevOPS teamlead
