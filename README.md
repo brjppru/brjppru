@@ -2,25 +2,23 @@
 
 I'm Roman Y. Bogdanov, from Syberia.
 
-# About
+#devops #kubernetes #docker #linux #cicd
 
-- 🔭 I’m currently working for [Kaspersky RnD](https://www.kaspersky.com/)
-- 🌱 I’m currently learning ♫ DJing [♫♫♫](https://t.me/thebrj)
+Experienced DevOps Engineer with 5+ years of hands-on experience supporting, automating, and optimizing mission-critical deployments in various environments, leveraging configuration management, CI/CD, and DevOps processes with a strong background in Linux and Windows administration.
 
-- 🤖 Most of the time I'm DevOPS teamlead
+Excellent technical problem solver with hardware, software, and network issues. Flexible to tech, as long as the end goal is helping people.
+Tg @brjppru
 
-- 🐍 I'm not a engineer, i'm a relationships counsellor for everything with Silicium who don't wanna talk to each other anymore;
-
-# Skills
+Tech stack:
 
 - Senior Windows System Administrator (Active Directory, DNS, DHCP, RDP, IIS, Hyper-V, etc);
-- Senior Linux System Administrator (Ubuntu, CentOS, RedHat, Debian);
+- Senior Linux System Administrator (Ubuntu, CentOS, RedHat, Rocky, Debian);
 - DevOps (Docker, Kubernetes, CI/CD, Gitlab, Jenkins, ArgoCD, Azure, etc);
 - Script shell (sh, bash, powershell, perl, regexp);
 - Work with server hardware Cisco, HP, Dell, Supermicro, IBM over 25 years;
 - Work with network hardware Cisco, HP, D-link, etc over 20 years;
 - RIPE, RIPEdb, AS, atlas, routing, switching, aggregation;
-- DNS, DHCP, VRRP, GLBP, iBGP, eBGP, ip unnumbered, VPC, ACL, RSPAN, SPAN, QinQ, VRF, VLAN;
+- DNS, DHCP, VRRP, GLBP, iBGP, eBGP, VPC, ACL, RSPAN, SPAN, QinQ, VRF, VLAN;
 - DBA Experience (Influx, MySQL, PostgeSQL, Oracle, MS SQL);
 - Experience in VMware, vCenter, Hyper-V, proxmox, ovirt;
 - Experience in MS Exchange, Lotus, postfix, exim, dovecot, smtp and anti-spam solutions;
@@ -29,6 +27,14 @@ I'm Roman Y. Bogdanov, from Syberia.
 # Hire me
 
 - [linkedin](https://www.linkedin.com/in/brjed)
+
+# Some else? 
+
+- 🔭 I’m currently working for [Kaspersky RnD](https://www.kaspersky.com/)
+- 🌱 I’m currently learning ♫ DJing [♫♫♫](https://t.me/thebrj)
+- 🤖 Most of the time I'm DevOPS teamlead
+- 🐍 I'm not a engineer, i'm a relationships counsellor for everything with Silicium who don't wanna talk to each other anymore;
+
 
 # 🐶 My current pet-projects
 
