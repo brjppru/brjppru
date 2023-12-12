@@ -1,6 +1,6 @@
 # Hi there 👋 
 
-I'm Roman Y. Bogdanov, from Syberia.
+I'm Roman Bogdanov, from Kazakhstan, Almaty.
 
 #netops #devops #kubernetes #docker #linux #cicd
 
