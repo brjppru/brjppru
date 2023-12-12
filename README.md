@@ -2,12 +2,13 @@
 
 I'm Roman Y. Bogdanov, from Syberia.
 
-#devops #kubernetes #docker #linux #cicd
+#netops #devops #kubernetes #docker #linux #cicd
 
-Experienced DevOps Engineer with 5+ years of hands-on experience supporting, automating, and optimizing mission-critical deployments in various environments, leveraging configuration management, CI/CD, and DevOps processes with a strong background in Linux and Windows administration.
+Experienced DevOps Engineer with 5+ years of hands-on experience supporting, automating, and optimizing mission-critical deployments in various environments, leveraging configuration management, CI/CD, and DevOps processes with a strong background in Linux, Windows and network administration.
 
 Excellent technical problem solver with hardware, software, and network issues. Flexible to tech, as long as the end goal is helping people.
-Tg @brjppru
+
+TG @brjppru
 
 Tech stack:
 
@@ -30,11 +31,9 @@ Tech stack:
 
 # Some else? 
 
-- 🔭 I’m currently working for [Kaspersky RnD](https://www.kaspersky.com/)
+- 🔭 I’m currently working for [InDrive](https://indrive.com/en/home/)
 - 🌱 I’m currently learning ♫ DJing [♫♫♫](https://t.me/thebrj)
-- 🤖 Most of the time I'm DevOPS teamlead
-- 🐍 I'm not a engineer, i'm a relationships counsellor for everything with Silicium who don't wanna talk to each other anymore;
-
+- 🐍 I'm not a network engineer, I'm a relationships counsellor for computers who don't wanna talk to each other anymore.
 
 # 🐶 My current pet-projects
 
